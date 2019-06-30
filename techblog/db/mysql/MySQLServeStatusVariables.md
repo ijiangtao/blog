@@ -625,11 +625,6 @@
 </td>
 </tr>
 <tr>
-<td colspan="3">
-<p><a title="MySQL运行状态show status中文详解" href="http://www.sandzhang.com/blog/2010/04/07/mysql-show-status-explained-detail/">原文地址</a></p>
-</td>
-</tr>
-<tr>
 <td>
 <p>Innodb_log_write_requests</p>
 </td>
@@ -1002,11 +997,6 @@
 </td>
 <td>
 <p>当前打开的表的数量。</p>
-</td>
-</tr>
-<tr>
-<td colspan="3">
-<p>原文地址:<a title="MySQL运行状态show status中文详解" href="http://www.sandzhang.com/blog/2010/04/07/mysql-show-status-explained-detail/">http://www.sandzhang.com/blog/2010/04/07/mysql-show-status-explained-detail/</a></p>
 </td>
 </tr>
 <tr>
